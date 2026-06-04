@@ -1,0 +1,9 @@
+package domain.enums;
+
+public enum TipoAccion {
+    CONTROL_PARASITOS,
+    COLOCAR_ANTIPARASITARIOS,
+    COMPROBAR_PESO_TAMANIO,
+    CHEQUEAR_NUTRICION,
+    COLOCAR_VACUNA
+}

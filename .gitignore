@@ -1,0 +1,21 @@
+# Compilacion Java
+out/
+bin/
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Secretos / locales
+.env
+*.local
